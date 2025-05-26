@@ -1,5 +1,5 @@
 
-# 🚀 Express Jade Starter
+# Express Jade Starter
 
 Kickstart your next Node.js project with the perfect blend of speed, simplicity, and flexibility!
 
